@@ -1,0 +1,60 @@
+1156050264 took 4 courses
+ENGG1000 D+ x1 [IT Foundation]
+ENGG1110 C+ x3 [Problem Solving by Programming]
+PTHE1000 C- x1 [Putonghua I]
+UGFX7788 B- x4 [Perspectives in University General Education]
+GPA = 2.30
+1156172841 took 5 courses
+ENGG1000 B+ x1 [IT Foundation]
+ENGG1110 A x3 [Problem Solving by Programming]
+ENGG2602 F x1 [Engineering Practicum]
+MATH1110 B+ x3 [Elementary Mathematics]
+UGFX7788 B x4 [Perspectives in University General Education]
+GPA = 3.10
+1156221557 took 4 courses
+CSCI2040 F x2 [Introduction to Programming Using Python]
+ENGG1000 B x1 [IT Foundation]
+MATH1110 C x3 [Elementary Mathematics]
+PTHE1000 F x1 [Putonghua I]
+GPA = 1.29
+1156389229 took 3 courses
+CSCI1130 C+ x3 [Introduction to Programming Using Java]
+ENGG1000 B x1 [IT Foundation]
+UGFX7788 B+ x4 [Perspectives in University General Education]
+GPA = 2.89
+1156493117 took 3 courses
+CSCI2040 B- x2 [Introduction to Programming Using Python]
+ENGG1000 B x1 [IT Foundation]
+ENGG2602 D x1 [Engineering Practicum]
+GPA = 2.35
+1156568410 took 4 courses
+CSCI2040 C x2 [Introduction to Programming Using Python]
+CSCI2100 D x3 [Data Structures]
+ENGG1000 A- x1 [IT Foundation]
+MATH1110 B+ x3 [Elementary Mathematics]
+GPA = 2.29
+1156627958 took 5 courses
+CSCI1130 C+ x3 [Introduction to Programming Using Java]
+CSCI2100 C+ x3 [Data Structures]
+ENGG1000 A- x1 [IT Foundation]
+MATH1110 B- x3 [Elementary Mathematics]
+UGFX7788 C- x4 [Perspectives in University General Education]
+GPA = 2.31
+1156709121 took 5 courses
+CSCI2040 C- x2 [Introduction to Programming Using Python]
+CSCI2100 B- x3 [Data Structures]
+ENGG1000 C+ x1 [IT Foundation]
+ENGG1110 F x3 [Problem Solving by Programming]
+MATH1110 D+ x3 [Elementary Mathematics]
+GPA = 1.48
+1156873296 took 4 courses
+CSCI2100 A- x3 [Data Structures]
+ENGG1000 C x1 [IT Foundation]
+ENGG2602 C+ x1 [Engineering Practicum]
+MATH1110 B+ x3 [Elementary Mathematics]
+GPA = 3.16
+1156937468 took 3 courses
+ENGG1000 B- x1 [IT Foundation]
+ENGG2602 C- x1 [Engineering Practicum]
+PTHE1000 A x1 [Putonghua I]
+GPA = 2.80

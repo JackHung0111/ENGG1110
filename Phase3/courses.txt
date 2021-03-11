@@ -1,0 +1,10 @@
+ENGG1110 3 Problem Solving by Programming
+CSCI1130 3 Introduction to Programming Using Java
+CSCI2040 2 Introduction to Programming Using Python
+ENGG2602 1 Engineering Practicum
+MATH1110 3 Elementary Mathematics
+UGFX7788 4 Perspectives in University General Education
+CSCI2100 3 Data Structures
+PTHE1000 1 Putonghua I
+ENGG1000 1 IT Foundation
+END

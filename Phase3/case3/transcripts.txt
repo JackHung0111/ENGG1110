@@ -1,0 +1,3 @@
+1156123456 took 1 courses
+ABCD1234 A x1 [Training]
+GPA = 4.00

@@ -1,0 +1,8 @@
+1156111111 took 2 courses
+ENGG1000 C x1 [IT Foundation]
+ENGG1110 A x3 [Problem Solving by Programming]
+GPA = 3.50
+1156222222 took 2 courses
+ENGG1000 B x1 [IT Foundation]
+ENGG1110 D x3 [Problem Solving by Programming]
+GPA = 1.50

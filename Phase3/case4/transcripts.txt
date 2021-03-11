@@ -1,0 +1,33 @@
+1156050264 took 1 courses
+ENGG1000 A x1 [IT Foundation]
+GPA = 4.00
+1156123456 took 1 courses
+ENGG1000 A- x1 [IT Foundation]
+GPA = 3.70
+1156172841 took 1 courses
+ENGG1000 B+ x1 [IT Foundation]
+GPA = 3.30
+1156221557 took 1 courses
+ENGG1000 B x1 [IT Foundation]
+GPA = 3.00
+1156389229 took 1 courses
+ENGG1000 B- x1 [IT Foundation]
+GPA = 2.70
+1156493117 took 1 courses
+ENGG1000 C+ x1 [IT Foundation]
+GPA = 2.30
+1156568410 took 1 courses
+ENGG1000 C x1 [IT Foundation]
+GPA = 2.00
+1156627958 took 1 courses
+ENGG1000 C- x1 [IT Foundation]
+GPA = 1.70
+1156873296 took 1 courses
+ENGG1000 D+ x1 [IT Foundation]
+GPA = 1.30
+1156937468 took 1 courses
+ENGG1000 D x1 [IT Foundation]
+GPA = 1.00
+1156999999 took 1 courses
+ENGG1000 F x1 [IT Foundation]
+GPA = 0.00
